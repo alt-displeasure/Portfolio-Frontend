@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "PortfolioFE/node_modules/bootstrap-5.0.2-dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "PortfolioFE/node_modules/bootstrap-5.0.2-dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
